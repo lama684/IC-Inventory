@@ -130,4 +130,3 @@ powershell -ExecutionPolicy Bypass -File .\scripts\uninstall-startup.ps1
 - 导入样例与空库存模板见 [examples](examples/README.md)，样例不是实购物料。
 - 接口与数量约束见 [数据契约](contracts/README.md)；模块见 [后端](backend/README.md)、[前端](frontend/README.md)、[测试](tests/README.md)。
 
-EOS 项目状态与完整验证边界以 [项目入口](../../项目/IC-Inventory/项目状态.md) 和 [工程关联](../../项目/IC-Inventory/工程关联.md) 为准。此工程不依赖 EOS 文件才能运行。
