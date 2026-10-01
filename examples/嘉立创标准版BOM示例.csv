@@ -1,0 +1,5 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part
+1,电源转换器,U1,VQFN-26,1,TPS55288RPMR,Texas Instruments,LCSC,C2687986
+2,电源转换器,"U2,U3,U4",VQFN-26,3,TPS55288RPMR,Texas Instruments,LCSC,C2687986
+3,PD控制器,"U5,U6",QFN-32,2,SW3518S,智融,LCSC,C5149201
+4,10k,"R1,R2,R3,R4",0603,4,RC0603FR-0710KL,Yageo,LCSC,C25804
